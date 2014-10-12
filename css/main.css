@@ -5,12 +5,9 @@ body {
 	font-family: Lato, 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 16px;
 	font-weight: 300;
-	background-image: none;
-	background-size: cover;
-	background-attachment: fixed;
 }
 
-a, a:visited, a:link {
+a:visited, a:link {
 	text-decoration: none;
 	color: #55E;
 }
